@@ -7,9 +7,6 @@ I love Biriyani because of its **rich flavors** and **aromatic spices**. It is a
 1. Local Restaurant (Right around the corner)
 2. Famous Briyani Shop (A short drive away)
 3. Restaurant in the City (About a 20-minute drive)
-
-
-## Side Dishes to Have with Briyani
 - Raita
 - Chicken Kebab
 - Salad
