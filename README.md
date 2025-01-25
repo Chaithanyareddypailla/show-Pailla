@@ -16,12 +16,3 @@ I love Biriyani because of its **rich flavors** and **aromatic spices**. It is a
 [Learn more about my favorite movie](./MyMovie.md)
 
 
----
-## Alternate Actors for The Darling Movie 
-
-List of Telugu actors I would love to see in the main role Prabhas :
-| Actor Name       | Reason for Choosing                         | Age |
-|------------------|---------------------------------------------|-----|
-| Mahesh babu      | Known for his intense action roles          | 45  |
-| Allu Arjun       | Could bring energy and style to the role    | 41  |
-| Ram Charan       | Great versatility and on-screen presence    | 39  |
