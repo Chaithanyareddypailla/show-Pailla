@@ -20,3 +20,13 @@ Here is a list of actors I think would be interesting in the main role for the m
 | Vijay Deverakonda| Brings raw emotion and intensity to characters  | 26  |
 | Ram Charan       | Versatile actor with a strong screen presence   | 39  |
 | Allu Arjun       | Known for his energy and dance performances     | 41  |
+
+
+---
+## Favorite Quotes
+
+> "Success comes with hard work, patience, and perseverance."  
+*– Prabhas*
+
+> "The true measure of success is how many times you bounce back from failure."  
+*– Prabhas*
