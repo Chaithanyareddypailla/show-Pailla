@@ -6,4 +6,4 @@
 **Prabhas' stellar performance**. The blend of romance, comedy, and family drama makes it a timeless classic.
 
 
-[ Image of the main actor](./prabhas.jpg.jpg)
+[ Image of the main actor](./prabhas.jpg)
