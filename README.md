@@ -15,4 +15,15 @@ I love Biriyani because of its **rich flavors** and **aromatic spices**. It is a
 ## My Favorite Movie
 [Learn more about my favorite movie](./MyMovie.md)
 
+---
+## Suggested Actors for Darling
+
+Although Prabhas was fantastic in *Darling*, here are some actors I’d love to see in the role:
+
+| Actor Name         | Reason for Suggestion              | Age |
+|--------------------|------------------------------------|-----|
+| Mahesh Babu        | Known for his charisma            | 49  |
+| Ram Charan         | Brings depth to family dramas     | 40  |
+| Allu Arjun         | A unique perspective as a lead    | 36  |
+| Vijay Deverakonda  | Perfect for romantic roles        | 34  |
 
