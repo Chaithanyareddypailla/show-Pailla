@@ -36,3 +36,16 @@ Although Prabhas was fantastic in *Darling*, here are some actors I’d love to 
 
 > "Dream big, stay humble, and never stop learning."  
 > *– A.P.J. Abdul Kalam*
+
+---
+## Favorite Code Snippet
+
+Here is a Python snippet for calculating factorials:
+
+```python
+def factorial(n):
+    if n == 0 or n == 1:
+        return 1
+    return n * factorial(n - 1)
+
+print(factorial(5))  # Output: 120
