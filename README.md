@@ -27,3 +27,12 @@ Although Prabhas was fantastic in *Darling*, here are some actors I’d love to 
 | Allu Arjun         | A unique perspective as a lead    | 36  |
 | Vijay Deverakonda  | Perfect for romantic roles        | 34  |
 
+
+---
+## Favorite Quotes
+
+> "Success doesn't come to you overnight; it takes hard work and dedication."  
+> *– Prabhas*
+
+> "Dream big, stay humble, and never stop learning."  
+> *– A.P.J. Abdul Kalam*
