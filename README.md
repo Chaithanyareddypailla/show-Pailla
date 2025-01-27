@@ -18,10 +18,11 @@ I love Biriyani because of its **rich flavors** and **aromatic spices**. It is a
 ---
 ## Suggested Actors for Darling
 
-Although Prabhas was fantastic in *Darling*, here are some actors I’d love to see in the role:
+While Prabhas did an exceptional job in *Darling*, here are four other actors I believe could have brought unique qualities to the role. These actors are known for their charm and stellar performances, and I think they would have been great choices for the lead role.
 
-| Actor Name         | Reason for Suggestion              | Age |
-|--------------------|------------------------------------|-----|
+
+| Actor Name         | Reason for Suggestion             | Age |
+|--------------------|-----------------------------------|-----|
 | Mahesh Babu        | Known for his charisma            | 49  |
 | Ram Charan         | Brings depth to family dramas     | 40  |
 | Allu Arjun         | A unique perspective as a lead    | 36  |
