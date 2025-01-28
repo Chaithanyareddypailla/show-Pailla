@@ -41,12 +41,7 @@ While Prabhas did an exceptional job in *Darling*, here are four other actors I 
 ---
 ## Favorite Code Snippet
 
-Here is a Python snippet for calculating factorials:
-
-```python
-def factorial(n):
-    if n == 0 or n == 1:
-        return 1
-    return n * factorial(n - 1)
-
-print(factorial(5))  # Output: 120
+'''
+import 'dart:convert';
+JsonEncoder().convert(yourObject)
+```
