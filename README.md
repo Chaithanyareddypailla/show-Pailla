@@ -39,7 +39,7 @@ While Prabhas did an exceptional job in *Darling*, here are four other actors I 
 > *– A.P.J. Abdul Kalam*
 
 ---
-## Favorite Code Snippet
+## Code Fencing
 
 The code snippet provided is a way to convert a Dart object into a JSON string using Dart's dart:convert library. 
 
