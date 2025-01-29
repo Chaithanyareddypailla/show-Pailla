@@ -40,7 +40,7 @@ While Prabhas did an exceptional job in *Darling*, here are four other actors I 
 
 ---
 ## Favorite Code Snippet
-
+```dart
 import 'dart:convert';
-
 JsonEncoder().convert(yourObject)
+```
