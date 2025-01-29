@@ -40,7 +40,12 @@ While Prabhas did an exceptional job in *Darling*, here are four other actors I 
 
 ---
 ## Favorite Code Snippet
+
+The code snippet provided is a way to convert a Dart object into a JSON string using Dart's dart:convert library. 
+
 ```dart
 import 'dart:convert';
 JsonEncoder().convert(yourObject)
 ```
+
+![ Dart Convert](./https://code.pieces.app/collections/dart)
