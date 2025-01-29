@@ -48,4 +48,4 @@ import 'dart:convert';
 JsonEncoder().convert(yourObject)
 ```
 
-[ Dart Convert](./https://code.pieces.app/collections/dart)
+[ Dart Convert](https://code.pieces.app/collections/dart)
